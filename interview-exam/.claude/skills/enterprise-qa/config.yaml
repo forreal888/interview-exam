@@ -1,0 +1,8 @@
+database:
+  type: sqlite
+  path: ./enterprise.db
+
+knowledge_base:
+  root_path: ./knowledge
+
+timezone: Asia/Shanghai
